@@ -7,7 +7,7 @@ Steps to use the Bot:
 2. Paste the token in config.py file.
 3. Get your ChatID by using get_msg function in telegram.py file.
 4. Paste the ChatID in config.py.
-5. Replace Pincode of the area for which you want to track availability in 'accine-Alerts.py'.
+5. Replace Pincode of the area for which you want to track availability in 'vaccine-Alerts.py'.
 6. Done. You can run the Vaccine-Alerts.py file now.
 
 #Let's get Vaccinated.
